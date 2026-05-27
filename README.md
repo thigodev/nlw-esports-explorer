@@ -17,4 +17,4 @@ Projeto construído do evento Next Level Week da Rocketseat
 
 ## ^^ Contato
 
-tjose.mra@gmail.com
+thiago.jose.dev@gmail.com
